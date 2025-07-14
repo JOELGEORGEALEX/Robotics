@@ -5,7 +5,7 @@
 ## 🧠 Head Design
 
 - 🛠️ The **modified Stewart platform mechanism** enables **3 degrees of freedom (3-DOF)** for mimicking human head movements.
-- ⚙️ An **actuator connected to a worm gear** is used to ensure **low backdrivability**, improving stability and control.
+- ⚙️ The 3 stepper **actuators connected to worm gears** used to ensure **no backdrivability at no power condition**, improving stability and control.
 
 ---
 
