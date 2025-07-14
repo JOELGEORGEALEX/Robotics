@@ -1,26 +1,13 @@
-# Card Board Furniture
+# Humanoid_head_mechanism
 
-## 🪑 Furniture with 5mm 
-* Cardboard Furniture made out of 5PLY corrugated sheet
-* ZUND flat bed cutter used for fabrication
+## 🪑 HEAD 
+* The modified steward platfrom mechanism allows 3DOF for human head
+* The actuator is connected to a worm gear mechanism to restrict backdrivability
 
 
-![Furniture Design - Image 1](im1.jpg)
+## 🎨 The NECK joint
 
----
-
-## 🎨 Render Images
-
-<<<<<<< HEAD
-### Render Image 1
-![Render Image 2](/images/im1.jpg)
+### Image 1
+![Render Image 2](/Head_humanoid/images/robon1/jpeg)
 =======
-### Render Image 2
-![Render Image 2](/images/im1.jpg)
 
-### Render Image 3
-![Render Image 3](im3.jpg)
-
-### Render Image 4
-![Render Image 4](im4.jpg)
->>>>>>> 36d99a8eb5700fe836e10cb0c1aa9a9e5b5d09ed
