@@ -8,6 +8,6 @@
 ## 🎨 The NECK joint
 
 ### Image 1
-![Render Image 2](/Head_humanoid/images/robon1/jpeg)
+![Render Image 2](/Head_humanoid/images/robon1.jpg)
 =======
 
